@@ -1,5 +1,6 @@
 function retornarCambio(dinero){
-    return "1bs"
+    const unBoliviano="1bs";
+    return unBoliviano;
 }
 
 export default retornarCambio;
